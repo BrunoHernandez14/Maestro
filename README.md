@@ -5,3 +5,5 @@ Before downloading these files please download the prereqs as stated in the requ
 Also when running the program there will be four buttons that run each model, once you run it to exit please press 'q'
 This is a beginner-friendly application made by BHer!
 
+To install all prereqs type this into your terminal!!! 
+### pip install -r requirements.txt
